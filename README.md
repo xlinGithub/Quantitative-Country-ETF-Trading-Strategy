@@ -18,4 +18,4 @@ stores daily ohlcv data for each ETF
 #### raw data
 stores raw factor data
 
-©Arturo Aguilar. ©Xiaochen Lin，©Wen Jiang. All Rights Reserved.
+©Arturo Aguilar. ©Xiaochen Lin. ©Wen Jiang. All Rights Reserved.
