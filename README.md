@@ -1,4 +1,4 @@
-# Quantitative-Country-ETF-Trading-Strategy
+# Quantitative-Country-ETF-Trading-Strategy-and-System-of-the-21-Century
 WQU Capstone Project
 
 ## Author
