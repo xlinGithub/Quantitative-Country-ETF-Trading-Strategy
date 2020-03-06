@@ -1,0 +1,14 @@
+ipython-genutils==0.2.0
+jupyter-core==4.4.0
+numpy==1.15.4
+pandas==0.22.0
+plotly==3.4.1
+python-dateutil==2.7.5
+urllib3==1.24.1
+pandas_datareader==0.7.0
+scipy==1.1.0
+matplotlib==3.0.0
+seaborn==0.9.0
+yahoo_historical==0.3.0
+alpaca-trade-api==0.44
+yfinance==0.1.54
