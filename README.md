@@ -1,7 +1,7 @@
 # Quantitative-Country-ETF-Trading-Strategy-and-System-of-the-21-Century
 WQU Capstone Project
 
-## Author
+## Authors
 * Arturo Aguilar
 * Xiaochen Lin
 * Wen Jiang
@@ -20,6 +20,7 @@ stores raw factor data
 
 ©Arturo Aguilar. ©Xiaochen Lin. ©Wen Jiang. All Rights Reserved.
 
+## References
 
 [1] Marko Kolanovic & Zhen Wei (2013). Systematic Strategies Across Asset Classes. JP Morgan. Available at: https://www.cmegroup.com/education/files/jpm-systematic-strategies-2013-12-11-1277971.pdf (Accessed: 17 February, 2020).
 
