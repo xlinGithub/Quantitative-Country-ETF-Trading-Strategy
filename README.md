@@ -19,3 +19,14 @@ stores daily ohlcv data for each ETF
 stores raw factor data
 
 ©Arturo Aguilar. ©Xiaochen Lin. ©Wen Jiang. All Rights Reserved.
+
+
+[1] Marko Kolanovic & Zhen Wei (2013). Systematic Strategies Across Asset Classes. JP Morgan. Available at: https://www.cmegroup.com/education/files/jpm-systematic-strategies-2013-12-11-1277971.pdf (Accessed: 17 February, 2020).
+
+[2] MSCI. (2020). MSCI ACWI Index. Available at: https://www.msci.com/acwi (Accessed: 17 February, 2020).
+
+[3] Bloomberg. (2020). Market Data. Available at: https://www.bloomberg.com/professional/product/market-data/ (Accessed: 17 February, 2020).
+
+[4] Jennifer Bender, Remy Briand, Dimitris Melas & Raman Aylur Subramanian (2013). Foundations of Factor Investing. MSCI. Available at: https://www.msci.com/documents/10199/71b6daf5-9e76-45ff-9f62-dc2fcd8f2721 (Accessed: 17 February, 2020).
+
+[5] GMO. Global Equity Allocation Fund. Available at: https://www.gmo.com/americas/product-index-page/equities/global-all-country-equity-allocation-strategy/global-equity-allocation-fund---geaf/?accept=Funds(Accessed: 17 February, 2020)
