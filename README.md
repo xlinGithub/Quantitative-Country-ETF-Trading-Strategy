@@ -23,20 +23,12 @@ stores raw factor data
 ## Results
 ### Developed Markets & Emerging Markets
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
 
 ### U.S. Subcase: Three Factors & Five Factors: 2017 and 2018
 
