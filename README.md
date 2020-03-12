@@ -5,6 +5,8 @@ WQU Capstone Project
 * Arturo Aguilar
 * Xiaochen Lin
 * Wen Jiang
+
+©Arturo Aguilar. ©Xiaochen Lin. ©Wen Jiang. All Rights Reserved.
  
 This project is an effort to build an investment strategy of global equity allocation to outperform MSCI All Country World Index (ACWI). The strategy includes technical, fundamental, economic, market sentiment and alternative factors. A framework of the trading strategy is shown below.
 ![factors](/factors.png)
@@ -18,7 +20,27 @@ stores daily ohlcv data for each ETF
 #### raw data
 stores raw factor data
 
-©Arturo Aguilar. ©Xiaochen Lin. ©Wen Jiang. All Rights Reserved.
+## Results
+### Developed Markets & Emerging Markets
+
+
+
+### U.S. Subcase: Three Factors & Five Factors: 2017 and 2018
+
+US:VOO
+
+S&P 500 Index, representing 500 of the largest U.S. companies. Goal is to closely track the index’s return, which is considered a gauge of overall U.S. stock returns. 
+
+https://investor.vanguard.com/etf/profile/VOO
+
+
+FF3_factors[['Mkt-RF','SMB','HML']])
+
+
+
+FF5_factors[['Mkt-RF','SMB','HML','RMW','CMA']]
+ 
+
 
 ## References
 
