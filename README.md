@@ -25,6 +25,19 @@ stores raw factor data
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### U.S. Subcase: Three Factors & Five Factors: 2017 and 2018
 
 US:VOO
