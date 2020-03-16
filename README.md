@@ -1,4 +1,5 @@
-# Quantitative-Country-ETF-Trading-Strategy-and-System-of-the-21-Century
+# Integrated Global Asset Management: 
+# Quantitative Country ETF Rotation Strategy
 WQU Capstone Project
 
 ## Authors
@@ -52,12 +53,20 @@ FF5_factors[['Mkt-RF','SMB','HML','RMW','CMA']]
 
 ## References
 
-[1] Marko Kolanovic & Zhen Wei (2013). Systematic Strategies Across Asset Classes. JP Morgan. Available at: https://www.cmegroup.com/education/files/jpm-systematic-strategies-2013-12-11-1277971.pdf (Accessed: 17 February, 2020).
+[1] Marko Kolanovic & Zhen Wei (2013). Systematic Strategies Across Asset Classes. JP Morgan. Available at: https://www.cmegroup.com/education/files/jpm-systematic-strategies-2013-12-11-1277971.pdf (Accessed: February, 2020).
 
-[2] MSCI. (2020). MSCI ACWI Index. Available at: https://www.msci.com/acwi (Accessed: 17 February, 2020).
+[2] MSCI (2020). MSCI ACWI Index. Available at: https://www.msci.com/acwi (Accessed: February, 2020).
 
-[3] Bloomberg. (2020). Market Data. Available at: https://www.bloomberg.com/professional/product/market-data/ (Accessed: 17 February, 2020).
+[3] Bloomberg (2020). Market Data. Available at: https://www.bloomberg.com/professional/ (Accessed: February, 2020).
 
-[4] Jennifer Bender, Remy Briand, Dimitris Melas & Raman Aylur Subramanian (2013). Foundations of Factor Investing. MSCI. Available at: https://www.msci.com/documents/10199/71b6daf5-9e76-45ff-9f62-dc2fcd8f2721 (Accessed: 17 February, 2020).
+[4] Marcos Lopéz de Prado (2018). Advances in Financial Machine Learning.
 
-[5] GMO. Global Equity Allocation Fund. Available at: https://www.gmo.com/americas/product-index-page/equities/global-all-country-equity-allocation-strategy/global-equity-allocation-fund---geaf/?accept=Funds(Accessed: 17 February, 2020)
+[5] MSCI (1998). Barra GEM. Available at: https://www.alacra.com/alacra/help/barra_handbook_GEM.pdf (Accessed: March, 2020).
+
+[6] MSCI (1998). Barra USE3. Available at: http://www.alacra.com/alacra/help/barra_handbook_US.pdf (Accessed: March, 2020).
+
+[7] Kenneth R. French (1993). Description of Fama/French 3 Factors. Available at: https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/Data_Library/f-f_factors.html (Accessed: March, 2020).
+
+[8] Kenneth R. French (2014). Description of Fama/French 5 Factors (2x3). Available at: https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/Data_Library/f-f_5_factors_2x3.html (Accessed: March, 1993).
+
+[9] Andrew Ang (2013). Factor Investing. Available at: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2277397 (Accessed: February, 2020).
