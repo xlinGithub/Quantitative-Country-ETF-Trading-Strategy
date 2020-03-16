@@ -1,5 +1,4 @@
-# Integrated Global Asset Management: 
-# Quantitative Country ETF Rotation Strategy
+# Integrated Global Asset Management: Quantitative Country ETF Rotation Strategy
 WQU Capstone Project
 
 ## Authors
