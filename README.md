@@ -14,9 +14,11 @@ This project is an effort to build an investment strategy of global equity alloc
 ## Table of Contents
 ### Folder:
 #### factor data
-stores time series data for each factor and each ETF, generated using [process raw data into factor data.ipynb](/process%20raw%20data%20into%20factor%20data.ipynb) and [process price data into factor data.ipynb](/process%20price%20data%20into%20factor%20data.ipynb).
+stores time series data for each factor and each ETF, generated using [process raw data into factor data](/process%20raw%20data%20into%20factor%20data.ipynb) and [process price data into factor data](/process%20price%20data%20into%20factor%20data.ipynb).
 #### price data
-stores daily ohlcv data for each ETF, generated using [download price data.ipynb](/download%20price%20data.ipynb).
+stores daily ohlcv data for each ETF, generated using [download price data](/download%20price%20data.ipynb).
+#### forward return
+stores forward 21-trading day return for each ETF, generated using [process price data into forward return](process%20price%20data%20into%20forward%20return.ipynb)
 #### raw data
 stores raw factor data (has been removed).
 
