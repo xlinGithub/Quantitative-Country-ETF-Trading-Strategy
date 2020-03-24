@@ -65,10 +65,14 @@ FF5_factors[['Mkt-RF','SMB','HML','RMW','CMA']]
 
 [5] MSCI (1998). Barra GEM. Available at: https://www.alacra.com/alacra/help/barra_handbook_GEM.pdf (Accessed: March, 2020).
 
-[6] MSCI (1998). Barra USE3. Available at: http://www.alacra.com/alacra/help/barra_handbook_US.pdf (Accessed: March, 2020).
+[6] MSCI (1998). Barra USE3. Available at: http://www.alacra.com/alacra/help/barra_handbook_US.pdf (Accessed: March 2020).
 
 [7] Kenneth R. French (1993). Description of Fama/French 3 Factors. Available at: https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/Data_Library/f-f_factors.html (Accessed: March, 2020).
 
-[8] Kenneth R. French (2014). Description of Fama/French 5 Factors (2x3). Available at: https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/Data_Library/f-f_5_factors_2x3.html (Accessed: March, 1993).
+[8] Kenneth R. French (2014). Description of Fama/French 5 Factors (2x3). Available at: https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/Data_Library/f-f_5_factors_2x3.html (Accessed: March 2020).
 
-[9] Andrew Ang (2013). Factor Investing. Available at: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2277397 (Accessed: February, 2020).
+[9] Andrew Ang (2013). Factor Investing. Available at: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2277397 (Accessed: February 2020).
+
+[10] Markit Economics (2020). PMI by IHS Markit. Available at: https://ihsmarkit.com/products/pmi.html (Accessed: March 2020).
+
+[11] Investopedia (2020). Factor Investing. Available at: https://www.investopedia.com/terms/f/factor-investing.asp (Accessed: March 2020).
