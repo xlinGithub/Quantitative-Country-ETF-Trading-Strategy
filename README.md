@@ -55,6 +55,8 @@ S&P 500 Index, representing 500 of the largest U.S. companies. Goal is to closel
 
 https://investor.vanguard.com/etf/profile/VOO
 
+https://www.aqr.com/Insights/Datasets
+
 FF3_factors[['Mkt-RF','SMB','HML']])
 
 FF4_factors[['AQR_MKTRF','AQR_SMB','AQR_BAB','AQR_QMJ']]
