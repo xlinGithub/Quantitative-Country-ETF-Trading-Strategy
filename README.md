@@ -48,8 +48,8 @@ https://investor.vanguard.com/etf/profile/VOO
 FF3_factors[['Mkt-RF','SMB','HML']])
 
 FF5_factors[['Mkt-RF','SMB','HML','RMW','CMA']]
- 
-Elaborating our model with loss function optimization scheme, we obtain our Five Factors Models with Ridge outperform Other Factors Models.
+
+Elaborating our model with loss function optimization scheme, we obtain our Five Factors Models with Ridge outperform other Factors Models.
 
 ## References
 
