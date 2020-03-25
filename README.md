@@ -47,7 +47,7 @@ stores raw factor data (has been removed).
 <br/><br/>
 <br/><br/>
 
-### U.S. Daily: Three Factors, Four Factors & Five Factors: 2017 and 2018
+### U.S. Daily: Three Factors, Four Factors & Five Factors
 
 #### U.S.:VOO
 
@@ -72,6 +72,8 @@ Source: https://screener.fidelity.com/ftgw/etf/goto/snapshot/snapshot.jhtml?symb
 AQR is a global investment management firm dedicated to delivering results for our clients.
 
 Source: https://www.aqr.com/Insights/Datasets
+
+#### Three Factors, Four Factors & Five Factors: 2017 and 2018
 
 FF3_factors[['Mkt-RF','SMB','HML']])
 
