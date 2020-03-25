@@ -9,11 +9,11 @@
 
 ## WQU Capstone Project
 
-Implementation (Dec 2019 - Apr 2020): [Quantitative Country ETF Trading Strategy](https://github.com/xlinGithub/Quantitative-Country-ETF-Trading-Strategy)
+Our Implementation (Dec 2019 - Apr 2020): [Quantitative Country ETF Trading Strategy](https://github.com/xlinGithub/Quantitative-Country-ETF-Trading-Strategy)
 
-Implementation (Dec 2019 - Feb 2020): [Integrated Global Asset Management](https://github.com/wenjiangwj1/Integrated-Global-Equity-Asset-Management)
+Our Implementation (Dec 2019 - Feb 2020): [Integrated Global Asset Management](https://github.com/wenjiangwj1/Integrated-Global-Equity-Asset-Management)
 
-Presentations (Dec 2019 - Apr 2020): [Integrated Global Asset Management](https://drive.google.com/drive/u/2/folders/1gL_FQaxAiupznbdxg7vLuEPTecbatp34)
+Our Presentations (Dec 2019 - Apr 2020): [Integrated Global Asset Management](https://drive.google.com/drive/u/2/folders/1gL_FQaxAiupznbdxg7vLuEPTecbatp34)
 
 ## Overview
  
