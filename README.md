@@ -67,7 +67,11 @@ The investment seeks to track the investment results of the MSCI ACWI ex USA Ind
 
 Source: https://screener.fidelity.com/ftgw/etf/goto/snapshot/snapshot.jhtml?symbols=ACWX
 
-https://www.aqr.com/Insights/Datasets
+#### AQR Capital Management
+
+AQR is a global investment management firm dedicated to delivering results for our clients.
+
+Source: https://www.aqr.com/Insights/Datasets
 
 FF3_factors[['Mkt-RF','SMB','HML']])
 
