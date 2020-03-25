@@ -57,6 +57,8 @@ https://investor.vanguard.com/etf/profile/VOO
 
 FF3_factors[['Mkt-RF','SMB','HML']])
 
+FF4_factors[['AQR_MKTRF','AQR_SMB','AQR_BAB','AQR_QMJ']]
+
 FF5_factors[['Mkt-RF','SMB','HML','RMW','CMA']]
 
 Elaborating our model with loss function optimization scheme, we obtain our Five Factors Models with Ridge outperform other Factors Models in ETF return prediction based on the associated market factor exposures. 
