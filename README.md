@@ -26,7 +26,7 @@ This project is an effort to build a country trading strategy to outperform the 
 
 
 ## Table of Contents
-### Folder:
+### Folders:
 #### factor data
 stores time series data for each factor and each ETF, generated using [process raw data into factor data](/process%20raw%20data%20into%20factor%20data.ipynb) and [process price data into factor data](/process%20price%20data%20into%20factor%20data.ipynb).
 #### price data
