@@ -38,18 +38,17 @@ stores raw factor data (has been removed).
 
 ### U.S. Subcase: Three Factors & Five Factors: 2017 and 2018
 
-US:VOO
+U.S.:VOO, ACWI
 
 S&P 500 Index, representing 500 of the largest U.S. companies. Goal is to closely track the index’s return, which is considered a gauge of overall U.S. stock returns. 
 
 https://investor.vanguard.com/etf/profile/VOO
 
-
 FF3_factors[['Mkt-RF','SMB','HML']])
 
 FF5_factors[['Mkt-RF','SMB','HML','RMW','CMA']]
 
-Elaborating our model with loss function optimization scheme, we obtain our Five Factors Models with Ridge outperform other Factors Models.
+Elaborating our model with loss function optimization scheme, we obtain our Five Factors Models with Ridge outperform other Factors Models in ETF return prediction based on the associated market factor exposures. 
 
 ## References
 
