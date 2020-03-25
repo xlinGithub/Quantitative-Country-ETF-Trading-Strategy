@@ -49,11 +49,23 @@ stores raw factor data (has been removed).
 
 ### U.S. Daily: Three Factors, Four Factors & Five Factors: 2017 and 2018
 
-U.S.:VOO, ACWI
+#### U.S.:VOO
 
 S&P 500 Index, representing 500 of the largest U.S. companies. Goal is to closely track the index’s return, which is considered a gauge of overall U.S. stock returns. 
 
-https://investor.vanguard.com/etf/profile/VOO
+Source: https://investor.vanguard.com/etf/profile/VOO
+
+#### U.S.: ACWI
+
+The investment seeks to track the investment results of the MSCI ACWI composed of large- and mid-capitalization developed and emerging market equities.
+
+Source: https://screener.fidelity.com/ftgw/etf/goto/snapshot/snapshot.jhtml?symbols=ACWI
+
+#### International: ACWX
+
+The investment seeks to track the investment results of the MSCI ACWI ex USA Index composed of large- and mid-capitalization non-U.S. equities. 
+
+Source: https://screener.fidelity.com/ftgw/etf/goto/snapshot/snapshot.jhtml?symbols=ACWX
 
 https://www.aqr.com/Insights/Datasets
 
