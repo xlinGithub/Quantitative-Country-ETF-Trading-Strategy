@@ -47,7 +47,7 @@ stores raw factor data (has been removed).
 <br/><br/>
 <br/><br/>
 
-### U.S. Subcase: Three Factors & Five Factors: 2017 and 2018
+### U.S. Daily: Three Factors, Four Factors & Five Factors: 2017 and 2018
 
 U.S.:VOO, ACWI
 
