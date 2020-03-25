@@ -1,5 +1,4 @@
 # Integrated Global Asset Management: Quantitative Country ETF Trading Strategy
-WQU Capstone Project
 
 ## Authors
 * Arturo Aguilar
@@ -7,6 +6,16 @@ WQU Capstone Project
 * Wen Jiang
 
 ©Arturo Aguilar. ©Xiaochen Lin. ©Wen Jiang. All Rights Reserved.
+
+## WQU Capstone Project
+
+Our Implementation (Dec 2019 - Apr 2020): [Quantitative Country ETF Trading Strategy](https://github.com/xlinGithub/Quantitative-Country-ETF-Trading-Strategy)
+
+Our Implementation (Dec 2019 - Feb 2020): [Integrated Global Asset Management](https://github.com/wenjiangwj1/Integrated-Global-Equity-Asset-Management)
+
+Our Presentations (Dec 2019 - Apr 2020): [Integrated Global Asset Management](https://drive.google.com/drive/u/2/folders/1gL_FQaxAiupznbdxg7vLuEPTecbatp34)
+
+## Overview
  
 This project is an effort to build a country trading strategy to outperform the MSCI All Country World Index (ACWI). The strategy includes technical, fundamental, economic, market sentiment and alternative factors. There seems to be enough room to build a strategy that generates alpha taking into account each countries’ equity and currency performance. A framework of the trading strategy is shown below.
 
@@ -17,7 +26,7 @@ This project is an effort to build a country trading strategy to outperform the 
 
 
 ## Table of Contents
-### Folder:
+### Folders:
 #### factor data
 stores time series data for each factor and each ETF, generated using [process raw data into factor data](/process%20raw%20data%20into%20factor%20data.ipynb) and [process price data into factor data](/process%20price%20data%20into%20factor%20data.ipynb).
 #### price data
@@ -38,7 +47,7 @@ stores raw factor data (has been removed).
 <br/><br/>
 <br/><br/>
 
-### U.S. Subcase: Three Factors & Five Factors: 2017 and 2018
+### U.S. Daily: Three Factors, Four Factors & Five Factors: 2017 and 2018
 
 U.S.:VOO, ACWI
 
@@ -48,9 +57,11 @@ https://investor.vanguard.com/etf/profile/VOO
 
 FF3_factors[['Mkt-RF','SMB','HML']])
 
+FF4_factors[['AQR_MKTRF','AQR_SMB','AQR_BAB','AQR_QMJ']]
+
 FF5_factors[['Mkt-RF','SMB','HML','RMW','CMA']]
 
-Elaborating our model with loss function optimization scheme, we obtain our Five Factors Models with Ridge outperform other Factors Models in ETF return prediction based on the associated market factor exposures. 
+Elaborating our model with loss function optimization scheme, we obtain our Five Factors Models with Ridge, a Tikhonov regularization,  outperform other Factors Models in ETF return prediction based on the associated market factor exposures. 
 
 ## References
 
