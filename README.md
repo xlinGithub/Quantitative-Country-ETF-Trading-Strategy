@@ -10,9 +10,9 @@ WQU Capstone Project
  
 This project is an effort to build a country trading strategy to outperform the MSCI All Country World Index (ACWI). The strategy includes technical, fundamental, economic, market sentiment and alternative factors. There seems to be enough room to build a strategy that generates alpha taking into account each countries’ equity and currency performance. A framework of the trading strategy is shown below.
 
-<center>![factors](/factors.png)</center>
+![factors](/factors.png#center)
 
-<center>![factor processing](/factor%20processing.png)</center>
+![factor processing](/factor%20processing.png#center)
 
 ## Table of Contents
 ### Folder:
