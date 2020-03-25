@@ -1,13 +1,4 @@
 # Integrated Global Asset Management: Quantitative Country ETF Trading Strategy
-WQU Capstone Project
-
-Implementation (Dec 2019 - Apr 2020): [Quantitative Country ETF Trading Strategy](https://github.com/xlinGithub/Quantitative-Country-ETF-Trading-Strategy)
-
-Implementation (Dec 2019 - Feb 2020): [Integrated Global Asset Management](https://github.com/wenjiangwj1/Integrated-Global-Equity-Asset-Management)
-
-Presentations (Dec 2019 - Apr 2020): [Integrated Global Asset Management](https://drive.google.com/drive/u/2/folders/1gL_FQaxAiupznbdxg7vLuEPTecbatp34)
-
-
 
 ## Authors
 * Arturo Aguilar
@@ -16,7 +7,15 @@ Presentations (Dec 2019 - Apr 2020): [Integrated Global Asset Management](https:
 
 ©Arturo Aguilar. ©Xiaochen Lin. ©Wen Jiang. All Rights Reserved.
 
-## Overwview
+## WQU Capstone Project
+
+Implementation (Dec 2019 - Apr 2020): [Quantitative Country ETF Trading Strategy](https://github.com/xlinGithub/Quantitative-Country-ETF-Trading-Strategy)
+
+Implementation (Dec 2019 - Feb 2020): [Integrated Global Asset Management](https://github.com/wenjiangwj1/Integrated-Global-Equity-Asset-Management)
+
+Presentations (Dec 2019 - Apr 2020): [Integrated Global Asset Management](https://drive.google.com/drive/u/2/folders/1gL_FQaxAiupznbdxg7vLuEPTecbatp34)
+
+## Overview
  
 This project is an effort to build a country trading strategy to outperform the MSCI All Country World Index (ACWI). The strategy includes technical, fundamental, economic, market sentiment and alternative factors. There seems to be enough room to build a strategy that generates alpha taking into account each countries’ equity and currency performance. A framework of the trading strategy is shown below.
 
