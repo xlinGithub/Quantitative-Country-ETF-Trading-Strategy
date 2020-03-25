@@ -12,7 +12,11 @@ This project is an effort to build a country trading strategy to outperform the 
 
 ![factors](/factors.png#center)
 
+<img src="/factors.png" aligned="center" width="250"/>
+
 ![factor processing](/factor%20processing.png#center)
+
+
 
 ## Table of Contents
 ### Folder:
