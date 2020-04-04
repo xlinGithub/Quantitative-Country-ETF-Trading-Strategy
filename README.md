@@ -126,4 +126,4 @@ Elaborating our model with loss function optimization scheme, we obtain our Five
 
 [20] Andrew Ang, Bob Bass, Sara Shores (2017). Strategic Factor Allocation. BlackRock. Available at: https://files.assettv.com/live/blk-strategic-factor-allocation-2017.pdf (Accessed: March, 2020).
  
-[21] Oguz A. Acar (2019). Why Crowdsourcing Often Leads to Bad Ideas. Harvard Business Review. https://hbr.org/2019/12/why-crowdsourcing-often-leads-to-bad-ideas (Accessed: March, 2020).
+[21] Oguz A. Acar (2019). Why Crowdsourcing Often Leads to Bad Ideas. Harvard Business Review. Available at: https://hbr.org/2019/12/why-crowdsourcing-often-leads-to-bad-ideas (Accessed: March, 2020).
