@@ -40,12 +40,12 @@ stores raw factor data (has been removed).
 ## Results
 ### Developed Markets & Emerging Markets
 
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
+https://github.com/xlinGithub/Quantitative-Country-ETF-Trading-Strategy/blob/master/modeling.ipynb
+
+https://github.com/xlinGithub/Quantitative-Country-ETF-Trading-Strategy/blob/master/quantopian_backtest_ACWI.py
+
+https://github.com/xlinGithub/Quantitative-Country-ETF-Trading-Strategy/blob/master/quantopian_backtest_ACWX.py
+
 
 ### U.S. Daily: Three Factors, Four Factors & Five Factors
 
@@ -74,6 +74,8 @@ AQR is a global investment management firm dedicated to delivering results for o
 Source: https://www.aqr.com/Insights/Datasets
 
 #### Three Factors, Four Factors & Five Factors: 2017 and 2018
+
+https://github.com/xlinGithub/Quantitative-Country-ETF-Trading-Strategy/blob/master/US%20Three%2C%20Four%20and%20Five%20Factors%20Models%202017-2018.ipynb
 
 FF3_factors[['Mkt-RF','SMB','HML']])
 
