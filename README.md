@@ -87,17 +87,17 @@ Elaborating our model with loss function optimization scheme, we obtain our Five
 
 ## References
 
-[1] Marko Kolanovic & Zhen Wei (2013). Systematic Strategies Across Asset Classes. JP Morgan. Available at: https://www.cmegroup.com/education/files/jpm-systematic-strategies-2013-12-11-1277971.pdf (Accessed: February, 2020).
+[1] Marko Kolanovic & Zhen Wei (2013). Systematic Strategies Across Asset Classes. J.P. Morgan. Available at: https://www.cmegroup.com/education/files/jpm-systematic-strategies-2013-12-11-1277971.pdf (Accessed: February, 2020).
 
-[2] MSCI (2020). MSCI ACWI Index. Available at: https://www.msci.com/acwi (Accessed: February, 2020).
+[2] MSCI Inc (2020). MSCI ACWI Index. Available at: https://www.msci.com/acwi (Accessed: February, 2020).
 
 [3] Bloomberg (2020). Market Data. Available at: https://www.bloomberg.com/professional/ (Accessed: February, 2020).
 
 [4] Marcos Lopéz de Prado (2018). Advances in Financial Machine Learning.
 
-[5] MSCI (1998). Barra GEM. Available at: https://www.alacra.com/alacra/help/barra_handbook_GEM.pdf (Accessed: March, 2020).
+[5] MSCI Inc (1998). Barra GEM. Available at: https://www.alacra.com/alacra/help/barra_handbook_GEM.pdf (Accessed: March, 2020).
 
-[6] MSCI (1998). Barra USE3. Available at: http://www.alacra.com/alacra/help/barra_handbook_US.pdf (Accessed: March 2020).
+[6] MSCI Inc (1998). Barra USE3. Available at: http://www.alacra.com/alacra/help/barra_handbook_US.pdf (Accessed: March 2020).
 
 [7] Kenneth R. French (1993). Description of Fama/French 3 Factors. Available at: https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/Data_Library/f-f_factors.html (Accessed: March, 2020).
 
@@ -106,5 +106,24 @@ Elaborating our model with loss function optimization scheme, we obtain our Five
 [9] Andrew Ang (2013). Factor Investing. Available at: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2277397 (Accessed: February 2020).
 
 [10] Markit Economics (2020). PMI by IHS Markit. Available at: https://ihsmarkit.com/products/pmi.html (Accessed: March 2020).
-
+ 
 [11] Investopedia (2020). Factor Investing. Available at: https://www.investopedia.com/terms/f/factor-investing.asp (Accessed: March 2020).
+
+[12] BlackRock Inc (2020). iShares MSCI ACWI ETF. Available at: https://www.ishares.com/us/products/239600/ishares-msci-acwi-etf (Accessed: March 2020).
+
+[13] Wayne Eckerson (2018). The Flavors of Data Science and Engineering. Eckerson Group. Available at: https://www.eckerson.com/articles/diving-into-dataops-the-underbelly-of-modern-data-pipelines (Accessed: March 2020).
+
+[14] Alberto Gomez (2020). Finamex: Friday's Good Read - Explaining the Recent Failure of Value Investing (Email: January 2020).
+[15] AQR Capital Management, Betting Against Beta: Equity Factors, Daily (2020). Factor Investing. Available at: https://www.aqr.com/Insights/Datasets/Betting-Against-Beta-Equity-Factors-Daily (Accessed: March 2020).
+
+[16] AQR Capital Management, Quality Minus Junk: Factors, Daily (2020). Factor Investing. Available at: https://www.aqr.com/Insights/Datasets/Quality-Minus-Junk-Factors-Daily (Accessed: March 2020).
+ 
+[17] Scikit-learn (2020). sklearn.ensemble.RandomForestRegressor. Available at: https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html (Accessed: March 2020).
+
+[18] Scikit-learn (2020). sklearn.linear_model.Ridge. Available at: https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Ridge.html (Accessed: March 2020).
+
+[19] Marko Kolanovic & Rajesh T. Krishnamachari (2017). Big Data and AI Strategies - Machine Learning and Alternative Data Approach to Investing. J.P. Morgan. Available at: https://www.cfasociety.org/cleveland/Lists/Events%20Calendar/Attachments/1045/BIG-Data_AI-JPMmay2017.pdf (Accessed: March, 2020).
+
+[20] Andrew Ang, Bob Bass, Sara Shores (2017). Strategic Factor Allocation. BlackRock. Available at: https://files.assettv.com/live/blk-strategic-factor-allocation-2017.pdf (Accessed: March, 2020).
+ 
+[21] Oguz A. Acar (2019). Why Crowdsourcing Often Leads to Bad Ideas. Harvard Business Review. https://hbr.org/2019/12/why-crowdsourcing-often-leads-to-bad-ideas (Accessed: March, 2020).
