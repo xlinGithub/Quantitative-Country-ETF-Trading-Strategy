@@ -1,3 +1,7 @@
+'''
+Requirement: go to https://www.quantopian.com/ to run this backtest. From 2019-01-01 to 2019-12-31. $10,000,000 Capital.
+'''
+
 import pandas as pd
 
 rebalance_dates = ['2019-01-02', '2019-02-01', '2019-03-01', 
